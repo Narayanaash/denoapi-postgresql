@@ -1,0 +1,1 @@
+web: deno run --alow net=:${PORT} --cached-only server.ts --port=${PORT}
